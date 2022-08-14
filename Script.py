@@ -1,16 +1,16 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Dxfilter_Bot'>𝙎𝙥𝙞𝙙𝙚𝙧 𝘽𝙤𝙮</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝙼𝚞𝚜𝚒𝚌 𝚝𝚑𝚎𝚛𝚎 🤓
+𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Autofilterv4bot'>STAR LORD</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝙼𝚞𝚜𝚒𝚌 𝚝𝚑𝚎𝚛𝚎 🤓
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-𝗧𝗛𝗜𝗦 𝙎𝙥𝙞𝙙𝙚𝙧 𝘽𝙤𝙮 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+𝗧𝗛𝗜𝗦 STAR LORD 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Dxfilter_Bot"> 𝙎𝙥𝙞𝙙𝙚𝙧 𝘽𝙤𝙮 </a>
-║┣⪼ 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 - <a href="https://t.me/+yP9ckmsoGF1kNDNl"> cinema club </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Autofilterv4bot"> STAR LORD </a>
+║┣⪼ 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 - <a href="https://t.me/+yP9ckmsoGF1kNDNl"> 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 </a>
 ║┣⪼ 𝐆𝐫𝐨𝐮𝐩 - <a href="https://t.me/MMCINEMACHAKKU"> cinema club group </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -19,7 +19,7 @@ class script(object):
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 𝙎𝙥𝙞𝙙𝙚𝙧 𝘽𝙤𝙮
+- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. STAR LORD
 - V2 IS CLOSED SOURCE 😉
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/+MQ34HqhF9ZJmYjRl"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
