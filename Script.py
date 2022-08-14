@@ -10,8 +10,8 @@ class script(object):
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Autofilterv4bot"> STAR LORD </a>
-║┣⪼ GROUP - <a href="https://t.me/+0uZ5_5FWltEwZTI1"> group </a>
-║┣⪼ CHANNEL - <a href="https://t.me/+yP9ckmsoGF1kNDNl"> 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 </a>
+║┣⪼ GROUP - <a href="https://t.me/+0uZ5_5FWltEwZTI1"> 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 </a>
+║┣⪼ CHANNEL - <a href="https://t.me/+2aWYIDf_ThAwZDBl"> 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
